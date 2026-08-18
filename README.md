@@ -10,8 +10,8 @@ Running inference with a large language model can be expensive in terms of both 
 
 | File | Description |
 |---|---|
-| `Systematic_Literature_Review_of_Semantic_Caching_for_LLM.docx` | Full review paper (Word). |
-| `LaTeX Source Files.zip` | LaTeX source, Overleaf-ready, including `references.bib`. |
+| `Systematic_Literature_Review_of_Semantic_Caching_for_LLM.pdf` | Full review paper (pdf). |
+| `LaTeX_Source_Compressed.zip` | LaTeX source, Overleaf-ready, including `references.bib`. |
 | `PRISMA_FLOW_DIAGRAM.png` | PRISMA-style screening flow diagram (Figure 1 in the paper). |
 | `SLR_of_SCLLM_Master_Corpus.xlsx` | Master corpus spreadsheet: all 87 records, screening decisions, quality-appraisal scores, and citation metadata. |
 | `Presentation_slide_SLR-of-SCLLM.pdf` | Course presentation slides (PDF). |
